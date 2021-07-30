@@ -1,5 +1,3 @@
-Pourquoi pas décrire un petit bout explicatif (textes ayant servi à la présentation)
-
 Plan de présentation à l'oral de la landing page AZUREAM
 
 1) Pourquoi ce projet ? L'actualité des premiers vols touristiques
@@ -11,7 +9,7 @@ Plan de présentation à l'oral de la landing page AZUREAM
 7) Mascotte Assitant Bot / bas de page
 8) Présentation de la page mobile
 9) Le Formulaire
-
+----------------------------------------------------------
 1) Pourquoi ce projet ? Passion commune des nouvelles technologies / L'actualité des vols touristiques dans l'espace / l'intellingence artificielle.
 
 2) Le concept du tourisme spatial / Plus loin que les vols dans l'espace / Vivre sur une nouvelle planète récemment découverte / être les pionnier dans ce concept / créer complètement une cité avec les dernières technologies.
